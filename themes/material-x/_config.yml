@@ -50,7 +50,7 @@ backstretch:
   duration: 6000 # 持续时间（毫秒）
   fade: 2500     # 渐变（毫秒）
   images:
-    - https://blog-1257454527.cos.ap-chengdu.myqcloud.com/scott-webb-OxHPDs4WV8Y-unsplash.jpg
+    - https://blog-1257454527.cos.ap-chengdu.myqcloud.com/129746.jpg
 
 
 
