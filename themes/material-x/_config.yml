@@ -67,9 +67,9 @@ cover:
     - name: 博文
       icon: fas fa-rss
       url: /
-    - name: 项目
-      icon: fas fa-code-branch
-      url: projects/
+#    - name: 项目
+#      icon: fas fa-code-branch
+#      url: projects/
     - name: 友链
       icon: fas fa-link
       url: friends/
