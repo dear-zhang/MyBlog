@@ -3,7 +3,7 @@ title: 安装Ubuntu18.04和win10双系统以及卸载Ubuntu
 tags:
   - ubuntu
 categories:
-  - 实用教程
+  - 分享境
 abbrlink: 85e2bf86
 date: 2018-09-08 14:17:43
 updated: 2019-06-19 14:13:00

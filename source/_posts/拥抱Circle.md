@@ -3,7 +3,7 @@ title: 拥抱Circle
 tags:
   - CI
 categories:
-  - 实用教程
+  - 实验室
 thumbnail: 'https://blog-1257454527.cos.ap-chengdu.myqcloud.com/circle.png'
 abbrlink: 17807
 date: 2019-06-18 11:38:26

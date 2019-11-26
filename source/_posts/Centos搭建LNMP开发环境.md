@@ -4,7 +4,7 @@ tags:
   - 网站建设
   - LNMP
 categories:
-  - 实用教程
+  - 实验室
 abbrlink: 75f6c94a
 date: 2018-09-11 18:26:04
 updated: 2019-5-19 14:07:00

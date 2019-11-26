@@ -4,7 +4,7 @@ tags:
   - 面试
   - PHP
 categories:
-  - 生活随笔
+  - 碎碎念
 abbrlink: ee5dd5e6
 date: 2018-08-24 11:50:05
 updated: 2019-06-19 14:17:00
