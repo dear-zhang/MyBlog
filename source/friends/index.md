@@ -14,4 +14,4 @@ links:
       - iOS
 ---
 
-大佬们想交换友链的话，可以通过邮箱[Jason](mailto:kingsonzhang@vip.qq.com)联系我，因为网站使用的是disqus评论系统，所以部分情况下无法评论以及留言
+大佬们想交换友链的话，审核,可以通过邮箱[Jason](mailto:kingsonzhang@vip.qq.com)联系我，因为网站使用的是disqus评论系统，所以部分情况下无法评论以及留言
