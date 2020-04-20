@@ -141,7 +141,7 @@ import:
   script:
     - "<script>console.clear(); console.log(`© Jason's Blog | Date: ${new Date().toLocaleDateString()}`)</script>"
 
-## lazy_load_image
+##  lazy_load_image
 lazyload:
   enable: true
   onlypost: false
