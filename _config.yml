@@ -8,11 +8,7 @@ subtitle: ''
 description: 这里是Jason‘s的博客，主要记录一些成长经历
 keywords: Blog Hexo
 author: Jason Zhang
-language:
-  - zh-CN
-  - en
-  - zh-HK
-  - zh-TW
+language: zh-CN
 timezone: ''
 
 ## 网站logo
@@ -103,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material-x
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -129,20 +125,8 @@ pwa:
         strategy: cacheFirst
   priority: 10
 
-## 评论系统
-disqus_shortname: kingson-1
-
-import:
-  meta:
-    - "<meta name='theme-color' content='#FFFFFF'>"
-    - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
-  link:
-    - "<link rel='manifest' href='/manifest.json'>"
-  script:
-    - "<script>console.clear(); console.log(`© Jason's Blog | Date: ${new Date().toLocaleDateString()}`)</script>"
-
 ##  lazy_load_image
 lazyload:
   enable: true
-  onlypost: false
+  onlypost: true
   loadingImg: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=
