@@ -1,5 +1,6 @@
 ---
-layout: tag
-index: true
-title: 所有标签
+title: 标签
+layout: tags
+comments: false
 ---
+
