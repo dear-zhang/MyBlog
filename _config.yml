@@ -11,12 +11,6 @@ author: Jason Zhang
 language: zh-CN
 timezone: ''
 
-## 网站logo
-favicon: https://images-1257454527.cos.ap-chengdu.myqcloud.com/20180903093336152_easyicon_net_32.ico
-shortcut_icon: https://images-1257454527.cos.ap-chengdu.myqcloud.com/20180903093336152_easyicon_net_32.ico
-## 文章标题下的作者头像
-avatar: https://blog-1257454527.cos.ap-chengdu.myqcloud.com/e57d81529822720e4c0c21bf76cb0a46f01fabc4.jpg
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.jasonzhang.xyz
