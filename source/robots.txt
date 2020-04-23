@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://blog.jaosnzhang.com/sitemap.xml
