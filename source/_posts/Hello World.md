@@ -5,7 +5,7 @@ tags:
   - Hexo
 categories:
   - 博客站
-thumbnail: 'https://user-gold-cdn.xitu.io/2020/5/6/171ea83764616dd5?w=2000&h=1062&f=png&s=9872'
+thumbnail: 'https://s1.ax1x.com/2020/05/06/YVtqUS.md.png'
 abbrlink: 1c291ca3
 date: 2019-08-24 11:50:05
 updated: 2019-08-24 11:50:05
