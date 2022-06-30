@@ -5,7 +5,7 @@ tags:
   - Hexo
 categories:
   - 博客栈
-thumbnail: 'https://s1.ax1x.com/2020/05/06/YVtqUS.md.png'
+thumbnail: 'http://hw2.a.kwimgs.com/upic/2022/06/17/17/BMjAyMjA2MTcxNzMxMzFfMjM4ODcxMzY5OF83Njk3MTI5NDk3Nl8wXzM=_Bfdd7d41dcb152a4c088e039a5efb1d92.jpg?tag=1-1655458431-unknown-0-cfailkv8fj-ae569b917edfa557&clientCacheKey=3xd2s5yppf6qvaq.jpg&di=2ac2ccad&bp=10000'
 abbrlink: 1c291ca3
 date: 2018-07-24 11:50:05
 updated: 2018-07-24 11:50:05
